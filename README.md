@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Engr. Dimitar Zhelev.
 - 👀 I’m interested in AI, Bitcoins and everything related to new technologies.
 - 🌱 I’m currently learning python and machine learning.
-- 📫 How to reach me DZhelev
+- 📫 How to reach me: DZhelev
 - ⚡ Fun fact: I’m a teacher of programming languages.
   
 ![](https://visitor-badge.laobi.icu/badge?page_id=0ktim.0ktim)
