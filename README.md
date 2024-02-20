@@ -10,7 +10,7 @@
   
 ## GitHub Stats
 <a href="https://github.com/0ktim">
-  <img height="280em" alt="My GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=0ktim&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&count_private=true&include_all_commits=true" />
+  <img height="350em" alt="My GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=0ktim&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&count_private=true&include_all_commits=true" />
 </a>
 
 ## Languages and tools:
@@ -18,7 +18,6 @@
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="arduino" width="60" height="40"/> 
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
@@ -31,6 +30,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
 
+<p align="right">
+<a href="https://www.google.com/search?sca_esv=557612269&sxsrf=AB5stBi2js4w4jeClwW8PrEMAb15A5Ashw:1692227927546&q=%D0%B8%D0%BD%D0%B6.+%D0%94%D0%B8%D0%BC%D0%B8%D1%82%D1%8A%D1%80+%D0%96%D0%B5%D0%BB%D0%B5%D0%B2+%D0%A1%D0%BB%D0%B8%D0%B2%D0%B5%D0%BD&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjt__-jqOKAAxXBVPEDHWh0BeoQ0pQJegQIDBAB&biw=768&bih=746&dpr=1.25"> More info...</a>
 <!---
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0ktim&layout=compact&hide_border=true" />
 
