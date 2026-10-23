@@ -9,7 +9,6 @@
   
 ## GitHub Stats
 
-
 <a href="https://github.com/0ktim">
   <img
     height="180"
@@ -17,8 +16,6 @@
     src="https://github-readme-stats.vercel.app/api?username=0ktim&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&icon_color=3498db&title_color=3498db"
   />
 </a>
-
-
 
 
 ## 👾 My Pac-Man Contribution Graph
