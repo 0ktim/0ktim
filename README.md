@@ -36,16 +36,7 @@
 </picture>
 
 
-
-## 🚀 My 3D Contributions
-
-![](./profile-3d-contrib/profile-season-animate.svg)
-
-
-
-
-
-## 🌌 My 3D Contributions
+## 3D Contributions
 
 <picture>
   <source
