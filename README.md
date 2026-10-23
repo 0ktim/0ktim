@@ -9,7 +9,6 @@
   
 ## GitHub Stats
 
-## 📊 GitHub Stats
 
 <a href="https://github.com/0ktim">
   <img
@@ -25,13 +24,20 @@
 ## 👾 My Pac-Man Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/pacman-output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man Contribution Graph"
-    src="https://raw.githubusercontent.com/USERNAME/USERNAME/pacman-output/pacman-contribution-graph.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/0ktim/0ktim/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/0ktim/0ktim/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="Pac-Man Contribution Graph"
+    src="https://raw.githubusercontent.com/0ktim/0ktim/output/pacman-contribution-graph.svg"
+  />
 </picture>
+
 
 
 
