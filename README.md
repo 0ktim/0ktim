@@ -18,7 +18,7 @@
 </a>
 
 
-## 👾 My Pac-Man Contribution Graph
+## Pac-Man Contribution Graph
 
 <picture>
   <source
